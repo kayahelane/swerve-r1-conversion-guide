@@ -1,4 +1,3 @@
-# swerve-r1-conversion-guide
 # FRC Swerve R1 Conversion & Validation Guide
 
 ## Overview
